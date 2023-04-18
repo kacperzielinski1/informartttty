@@ -1,0 +1,12 @@
+C:\Users\vizer\source\repos\stoper\stoper\bin\Debug\stoper.exe.config
+C:\Users\vizer\source\repos\stoper\stoper\bin\Debug\stoper.exe
+C:\Users\vizer\source\repos\stoper\stoper\bin\Debug\stoper.pdb
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.csproj.AssemblyReference.cache
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.csproj.SuggestedBindingRedirects.cache
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.Form1.resources
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.Properties.Resources.resources
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.csproj.GenerateResource.cache
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.csproj.CoreCompileInputs.cache
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.exe
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.pdb
+C:\Users\vizer\source\repos\stoper\stoper\obj\Debug\stoper.Form2.resources
